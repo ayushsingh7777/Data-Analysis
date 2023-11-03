@@ -1,4 +1,4 @@
-# CODEX :Energy Drink: Case Study F & B Marketing Insights <img width="45" alt="codx" src="https://github.com/ayushsingh7777/Data-Analysis/assets/68181799/f26883e1-b392-45af-ab61-ed026b43475f">
+# CODEX<img width="45" alt="codx" src="https://github.com/ayushsingh7777/Data-Analysis/assets/68181799/f26883e1-b392-45af-ab61-ed026b43475f"> :Energy Drink: Case Study F & B Marketing Insights 
 
 <p align="center">
 

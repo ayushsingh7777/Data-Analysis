@@ -1,4 +1,4 @@
-# :Energy Drink: :drink: Case Study F & B Marketing Insights
+# CODEX :Energy Drink: Case Study F & B Marketing Insights
 <p align="center">
 
 View the case study [here](https://codebasics.io/challenge/codebasics-resume-project-challenge)

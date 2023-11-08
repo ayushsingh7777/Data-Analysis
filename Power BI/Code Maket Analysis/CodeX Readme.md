@@ -70,4 +70,4 @@ limited edition packaging?
 - Which area of business should we focus more on our product development? 
 (Branding/taste/availability
 
-Click [here](https://github.com/ayushsingh7777/Data-Analysis/blob/main/SQL/CodeX%20business%20Solution%20(SQL)/CodeX%20Business%20Solution.sql) to view the solution solution of the case study!
+Click [here](https://www.novypro.com/project/codex-market-analysis-report) to view the Interactive Dashboard!
